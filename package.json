@@ -1,0 +1,25 @@
+{
+  "name": "react-text-replace",
+  "version": "0.0.1",
+  "description": "A package that makes replace jsx components content easier.",
+  "main": "index.js",
+  "author": {
+    "name": "Gabriel Freitas",
+    "url": "github.com/nneutrinno"
+  },
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "uuid": "^3.3.2"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "string",
+    "text",
+    "array",
+    "replace"
+  ],
+  "repository": "nneutrinno/react-text-replace",
+  "license": "MIT"
+}
